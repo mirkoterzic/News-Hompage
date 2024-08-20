@@ -53,7 +53,7 @@ This project is a responsive news homepage layout challenge from [Frontend Mento
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-github-username/news-homepage.git
+   git clone https://github.com/mirkoterzic/News-Hompage.git
 
    
 ## Author
